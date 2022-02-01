@@ -40,11 +40,11 @@
         <div class="container px-4 px-lg-5 h-100">
             <div class="row gx-4 gx-lg-5 h-100 align-items-center justify-content-center text-center">
                 <div class="col-lg-8 align-self-end">
-                    <h1 class="text-white font-weight-bold">Temukanlah bukumu dan membacalah tujuanmu</h1>
+                    <h1 class="text-white font-weight-bold">Temukanlah Bukumu Dan Membacalah Tujuanmu</h1>
                     <hr class="divider" />
                 </div>
                 <div class="col-lg-8 align-self-baseline">
-                    <p class="text-white-75 mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur quibusdam sapiente, ullam, quae vitae aliquam repellat iusto vel numquam, animi quam nesciunt voluptates reiciendis officia corrupti assumenda provident consectetur quidem?</p>
+                    <p class="text-white-75 mb-5">Ilmu itu ada di mana-mana, pengetahuan di mana-mana tersebar, kalau kita bersedia membaca, dan bersedia mendengar." - Felix Siauw</p>
                     <a class="btn btn-primary btn-xl" href="/product">Shop Now</a>
                 </div>
             </div>
@@ -57,7 +57,7 @@
                 <div class="col-lg-8 text-center">
                     <h2 class="text-white mt-0">We've got what you need!</h2>
                     <hr class="divider divider-light" />
-                    <p class="text-white-75 mb-4">Start Bootstrap has everything you need to get your new website up and running in no time! Choose one of our open source, free to download, and easy to use themes! No strings attached!</p>
+                    <p class="text-white-75 mb-4">Alteon menyediakan berbagai macam buku dengan berbagai macam kategori yang dapat ditemukan dengan mudah</p>
                     <a class="btn btn-light btn-xl" href="#services">Get Started!</a>
                 </div>
             </div>
@@ -165,7 +165,7 @@
     <!-- Footer-->
     <footer class="bg-light py-5">
         <div class="container px-4 px-lg-5">
-            <div class="small text-center text-muted">Copyright &copy; 2021 - Alteon Projects</div>
+            <div class="small text-center text-muted">Copyright &copy; 2022 - 19552011120_Noorman</div>
         </div>
     </footer>
 
